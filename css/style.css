@@ -1,0 +1,202 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.top-section{
+    padding-top: 100px;
+    position: relative;
+    background-color: #e4f9f5;
+    height: 85vh;
+}
+.iamifraz{
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 20px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.prog{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    margin: 0%;
+}
+
+.mountain{
+    position: absolute;
+    bottom: 0%;
+    right: 25%;
+    min-width: 50px;
+    align-items: center;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 250px
+
+}
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 250px;
+    left:200px;
+}
+
+.middle-section{
+    margin: 100px 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    text-align: center;
+}
+
+.hellodiv h1{
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+.profile{
+    border-radius: 50%;
+    width: 15%;
+    min-width: 150px;
+}
+
+.profile-p{
+    color: black;
+    width: 23%;
+    margin: 0 auto;
+    font-family: 'Merriweather', serif;
+    text-align: justify;
+}
+
+.skilldiv{
+    width: 50%;
+    margin: 50px auto;
+}
+
+.skildiv h1{
+    text-align: center;
+}
+.skilldiv h3{
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: left;
+}
+
+.skilldiv p{
+    color: darkslategrey;
+    line-height: 1.75;
+    font-family: 'Merriweather', serif;
+    text-align: justify;
+    text-align: left;
+}
+
+.skilldiv img{
+    width: 20%;
+    min-width: 180px;
+    border-radius: 100%;
+}
+
+.computer{
+    float: left;
+    margin-right: 30px;
+}
+
+.hotdiv{
+    width: 50%;
+    text-align: right justify;
+    margin: 50px auto;
+    padding-bottom: 5%;
+}
+
+.hotdiv img{
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+    min-width: 180px;
+}
+
+.hotdiv p{
+    color: darkslategrey;
+    line-height: 1.75;
+    font-family: 'Merriweather', serif;
+    text-align: justify;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.touchdiv{
+    width: 40%;
+    text-align: center justify;
+    margin: 50px auto;
+}
+
+.touchdiv p{
+    color: darkslategrey;
+    line-height: 1.75;
+    font-family: 'Merriweather', serif;
+    text-align: center justify;
+}
+
+.touchdiv h3{
+    color: darkslategrey;
+    font-weight: bold;
+}
+
+.to p{
+    padding-bottom: 30px;
+}
+
+.btn{
+    text-decoration: none;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background-image: linear-gradient(to bottom, #86c5e7, #85c0f2, #8ebafa, #a1b1fe, #baa6fc, #baa6fc, #baa6fc, #baa6fc, #a1b1fe, #8ebafa, #85c0f2, #86c5e7);    padding: 10px 20px 10px 20px;
+    border-radius: 25px;
+    color: black;
+
+}
+
+.btn:hover{
+    background-image: linear-gradient(to bottom, #86c5e7, #74cced, #5fd4f0, #48dbf0, #2de2ec, #2de2ec, #2de2ec, #2de2ec, #48dbf0, #5fd4f0, #74cced, #86c5e7);    border-width: 30px;
+    border-color: #9dea34;
+    border-radius: 25px;
+    font-weight: bolder;
+}
+
+.bottom-section{
+    padding: 30px;
+    background-color: cadetblue;
+}
+
+.bottom-section a{
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(188, 207, 209);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-section p{
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(6, 89, 99);
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+}
